@@ -1,4 +1,4 @@
-# task02
+# HelloWorld Lambda Handler
 
 High level project overview - business value it brings, non-detailed technical overview.
 
@@ -7,7 +7,7 @@ All the technical details described below are actual for the particular
 version, or a range of versions of the software.
 ### Actual for versions: 1.0.0
 
-## task02 diagram
+## HelloWorld Lambda Handler
 
 ![task02](pics/task02_diagram.png)
 
