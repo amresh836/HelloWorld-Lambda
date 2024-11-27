@@ -1,0 +1,9 @@
+account_id: '196241772369'
+deploy_target_bucket:
+extended_prefix_mode: true
+iam_permissions_boundary:
+project_path: C:\Users\amresh_ranjan\epam-lambda-task02\task02
+region: eu-central-1
+resources_prefix:
+expiration: 2024-07-25T14:13:44+00:00
+use_temp_creds: false
